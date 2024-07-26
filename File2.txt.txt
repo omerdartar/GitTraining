@@ -1,3 +1,7 @@
 Urfa
 Antep
 Mardin
+Agri
+Diyarbakir
+Hakkari
+Malatya
