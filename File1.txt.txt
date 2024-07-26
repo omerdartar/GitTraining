@@ -2,3 +2,5 @@ Istanbul
 Bursa
 Antalya
 Adana
+Mersin
+Adiyaman
